@@ -1,14 +1,15 @@
 # 🔍 Problem: https://leetcode.com/problems/two-sum/
 # 🧠 Approach: One-pass Hash Map
-#🔢 Difficulty: Easy | Medium | Hard
-# ⏱️ Time Complexity:
+#🔢 Difficulty: Easy
+# ⏱️ Runtime: 3 ms
 
 
-
-def twoSum(nums, target):
-    hash_map = {}
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+    seen = {}
     for i, num in enumerate(nums):
-        complement = target - num
-        if complement in hash_map:
-            return [hash_map[complement], i]
-        hash_map[num] = i
+        print(i,num)
+        diff = target - num
+        if diff in seen:
+            return [seen[diff], i]
+        seen[num] = i
+
