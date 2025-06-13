@@ -29,26 +29,26 @@ dsa-python/
 ├── Arrays/
 │   ├── 001_two_sum.py
 │   ├── 002_max_subarray.py
+|   ├── 003_remove_duplicates_from_sorted_array.py
 │
 ├── Strings/
-│   ├── 003_valid_palindrome.py
-│   └── 004_check_anagram.py
+│   
 │
 ├── HashMaps/
-│   └── 005_frequency_count.py
+│   
 │
 ├── Recursion/
-│   └── 006_factorial.py
+│   
 │
 ├── Stack/
-│   └── 007_valid_parentheses.py
+│   
 │
 ├── README.md
 
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 2
+🧩 Problems Solved: 3
 🗓️ Last Updated: June 12, 2025
 🧠 Language: Python 3
 
