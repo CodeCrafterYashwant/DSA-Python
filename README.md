@@ -49,7 +49,7 @@ dsa-python/
 📈 Progress Tracker
 
 🧩 Problems Solved: 3
-🗓️ Last Updated: June 12, 2025
+🗓️ Last Updated: June 13, 2025
 🧠 Language: Python 3
 
 
