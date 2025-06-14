@@ -1,5 +1,4 @@
 # 🔍 Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-# 🧠 Approach: One-pass Hash Map
 # 🔢 Difficulty: Easy
 # ⏱️ Runtime: 0 ms
 
