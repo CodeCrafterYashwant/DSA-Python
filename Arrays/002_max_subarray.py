@@ -1,5 +1,5 @@
 # 🔍 Problem: https://leetcode.com/problems/maximum-subarray/
-#🔢 Difficulty: Easy
+# 🔢 Difficulty: Easy
 # ⏱️ Runtime: 60 ms
 
 
