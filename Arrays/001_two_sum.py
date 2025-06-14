@@ -1,5 +1,4 @@
 # 🔍 Problem: https://leetcode.com/problems/two-sum/
-# 🧠 Approach: One-pass Hash Map
 #🔢 Difficulty: Easy
 # ⏱️ Runtime: 3 ms
 
