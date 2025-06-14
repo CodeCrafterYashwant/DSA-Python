@@ -1,5 +1,5 @@
 # 🔍 Problem: https://leetcode.com/problems/two-sum/
-#🔢 Difficulty: Easy
+# 🔢 Difficulty: Easy
 # ⏱️ Runtime: 3 ms
 
 
