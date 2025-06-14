@@ -1,5 +1,4 @@
 # 🔍 Problem: https://leetcode.com/problems/rotate-array/
-# 🧠 Approach: One-pass Hash Map
 # 🔢 Difficulty: Easy
 # ⏱️ Runtime: 1371 ms
 
