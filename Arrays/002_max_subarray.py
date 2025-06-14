@@ -1,5 +1,4 @@
 # 🔍 Problem: https://leetcode.com/problems/maximum-subarray/
-# 🧠 Approach: One-pass Hash Map
 #🔢 Difficulty: Easy
 # ⏱️ Runtime: 60 ms
 
