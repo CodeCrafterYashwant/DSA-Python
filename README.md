@@ -31,6 +31,7 @@ dsa-python/
 │   ├── 002_max_subarray.py
 |   ├── 003_remove_duplicates_from_sorted_array.py
 |   ├── 004_rotate_array.py
+│   ├── 005_sort_an_array.py
 │
 ├── Strings/
 │   
@@ -49,8 +50,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 4
-🗓️ Last Updated: June 14, 2025
+🧩 Problems Solved: 5
+🗓️ Last Updated: June 15, 2025
 🧠 Language: Python 3
 
 
