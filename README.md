@@ -32,6 +32,7 @@ dsa-python/
 |   ├── 003_remove_duplicates_from_sorted_array.py
 |   ├── 004_rotate_array.py
 │   ├── 005_sort_an_array.py
+│   ├── 006_max_consecutive_ones.py
 │
 ├── Strings/
 │   
@@ -50,8 +51,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 5
-🗓️ Last Updated: June 15, 2025
+🧩 Problems Solved: 6
+🗓️ Last Updated: June 16, 2025
 🧠 Language: Python 3
 
 
