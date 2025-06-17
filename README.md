@@ -33,6 +33,7 @@ dsa-python/
 |   ├── 004_rotate_array.py
 │   ├── 005_sort_an_array.py
 │   ├── 006_max_consecutive_ones.py
+│   ├── 007_concatenation_of_array.py
 │
 ├── Strings/
 │   
@@ -51,8 +52,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 6
-🗓️ Last Updated: June 16, 2025
+🧩 Problems Solved: 7
+🗓️ Last Updated: June 17, 2025
 🧠 Language: Python 3
 
 
