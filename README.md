@@ -34,6 +34,7 @@ dsa-python/
 │   ├── 005_sort_an_array.py
 │   ├── 006_max_consecutive_ones.py
 │   ├── 007_concatenation_of_array.py
+│   ├── 008_move_zeroes.py
 │
 ├── Strings/
 │   
@@ -52,8 +53,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 7
-🗓️ Last Updated: June 17, 2025
+🧩 Problems Solved: 8
+🗓️ Last Updated: June 19, 2025
 🧠 Language: Python 3
 
 
