@@ -10,15 +10,15 @@ This is where I consistently solve problems using **Python**, mainly from platfo
 | S.No | Topic            | Problems Covered                           |
 |------|------------------|--------------------------------------------|
 | 1    | Arrays           | Two Sum, Kadane's Algorithm, etc.          |
-| 2    | Strings          | Valid Palindrome, Anagram Check            |
-| 3    | HashMaps         | Frequency Count, Intersection               |
-| 4    | Linked Lists     | Reverse List, Detect Cycle, Middle Node    |
-| 5    | Recursion        | Factorial, Fibonacci, Backtracking Basics  |
-| 6    | Stack / Queue    | Valid Parentheses, Min Stack               |
-| 7    | Trees / Graphs   | BFS, DFS, Level Order, Top View            |
-| 8    | Binary Search    | Search Insert Position, Rotated Array      |
-| 9    | Sliding Window   | Max Sum Subarray, Longest Substring        |
-| 10   | Dynamic Prog.    | Climbing Stairs, Subset Sum, Knapsack      |
+| 2    | Strings          | Valid Palindrome, Anagram Check, etc.      |
+| 3    | HashMaps         | Frequency Count, Intersection, etc.        |
+| 4    | Linked Lists     | Reverse List,Detect Cycle,Middle Node, etc.|
+| 5    | Recursion        | Factorial,Fibonacci,Backtracking Basics,etc.|
+| 6    | Stack / Queue    | Valid Parentheses, Min Stack, etc.         |
+| 7    | Trees / Graphs   | BFS, DFS, Level Order, Top View, etc.      |
+| 8    | Binary Search    | Search Insert Position, Rotated Array,etc. |
+| 9    | Sliding Window   | Max Sum Subarray, Longest Substring,etc.   |
+| 10   | Dynamic Prog.    | Climbing Stairs, Subset Sum, Knapsack,etc. |
 
 ---
 
