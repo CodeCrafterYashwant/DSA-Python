@@ -36,6 +36,7 @@ dsa-python/
 │   ├── 007_concatenation_of_array.py
 │   ├── 008_move_zeroes.py
 │   ├── 009_single_number.py
+│   ├── 010_kth_largest_element_in_an_array.py
 │
 ├── Strings/
 │   
@@ -54,8 +55,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 9
-🗓️ Last Updated: June 20, 2025
+🧩 Problems Solved: 10
+🗓️ Last Updated: June 21, 2025
 🧠 Language: Python 3
 
 
