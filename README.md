@@ -36,7 +36,7 @@ dsa-python/
 │   ├── 007_concatenation_of_array.py
 │   ├── 008_move_zeroes.py
 │   ├── 009_single_number.py
-│   ├── 010_kth_largest_element_in_an_array.py
+│   ├── 010_kth_Largest_Element_in_an_Array.py
 │
 ├── Strings/
 │   
