@@ -37,6 +37,7 @@ dsa-python/
 │   ├── 008_move_zeroes.py
 │   ├── 009_single_number.py
 │   ├── 010_kth_Largest_Element_in_an_Array.py
+│   ├── 011_Reverse_an_Array.py
 │
 ├── Strings/
 │   
@@ -55,8 +56,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 10
-🗓️ Last Updated: June 21, 2025
+🧩 Problems Solved: 11
+🗓️ Last Updated: June 22, 2025
 🧠 Language: Python 3
 
 
