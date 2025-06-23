@@ -38,6 +38,7 @@ dsa-python/
 │   ├── 009_single_number.py
 │   ├── 010_kth_Largest_Element_in_an_Array.py
 │   ├── 011_Reverse_an_Array.py
+│   ├── 012_Second_largest_in_an_Array.py
 │
 ├── Strings/
 │   
@@ -56,8 +57,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 11
-🗓️ Last Updated: June 22, 2025
+🧩 Problems Solved: 12
+🗓️ Last Updated: June 23, 2025
 🧠 Language: Python 3
 
 
