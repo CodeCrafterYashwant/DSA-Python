@@ -39,7 +39,7 @@ dsa-python/
 │   ├── 010_kth_Largest_Element_in_an_Array.py
 │   ├── 011_Reverse_an_Array.py
 │   ├── 012_Second_largest_in_an_Array.py
-│   ├── 013_Contains_duplicate.py
+│   ├── 013_Contains_Duplicate.py
 │
 ├── Strings/
 │   
