@@ -41,6 +41,7 @@ dsa-python/
 │   ├── 012_Second_largest_in_an_Array.py
 │   ├── 013_Contains_Duplicate.py
 │   ├── 014_Min_and_Max_in_Array.py
+│   ├── 015_Missing_Number.py
 │
 ├── Strings/
 │   
@@ -59,8 +60,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 14
-🗓️ Last Updated: June 25, 2025
+🧩 Problems Solved: 15
+🗓️ Last Updated: June 26, 2025
 🧠 Language: Python 3
 
 
