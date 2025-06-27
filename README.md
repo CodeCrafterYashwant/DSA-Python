@@ -42,6 +42,7 @@ dsa-python/
 │   ├── 013_Contains_Duplicate.py
 │   ├── 014_Min_and_Max_in_Array.py
 │   ├── 015_Missing_Number.py
+│   ├── 016_Count_pair_with_given_Sum.py
 │
 ├── Strings/
 │   
@@ -60,8 +61,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 15
-🗓️ Last Updated: June 26, 2025
+🧩 Problems Solved: 16
+🗓️ Last Updated: June 27, 2025
 🧠 Language: Python 3
 
 
