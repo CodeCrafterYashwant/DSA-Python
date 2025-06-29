@@ -1,5 +1,5 @@
 # 🔍 Problem: https://leetcode.com/problems/rotate-array/
-# 🔢 Difficulty: Easy
+# 🔢 Difficulty: Medium
 # ⏱️ Runtime: 1371 ms
 
 def rotate(self, nums: List[int], k: int) -> None:
