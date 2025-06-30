@@ -45,6 +45,7 @@ dsa-python/
 │   ├── 016_Count_pair_with_given_Sum.py
 │   ├── 017_Container_with_Most_Water.py
 │   ├── 018_Best_time_to_Buy_and_Sell_Stock.py
+│   ├── 019_Sort_Colors.py
 │
 ├── Strings/
 │   
@@ -63,8 +64,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 18
-🗓️ Last Updated: June 29, 2025
+🧩 Problems Solved: 19
+🗓️ Last Updated: June 30, 2025
 🧠 Language: Python 3
 
 
