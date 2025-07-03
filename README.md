@@ -48,6 +48,7 @@ dsa-python/
 │   ├── 019_Sort_Colors.py
 │   ├── 020_Plus_One.py
 │   ├── 021_Search_Insert_Position.py
+│   ├── 022_Find_the_Duplicate_Number.py
 │
 ├── Strings/
 │   
@@ -66,8 +67,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 21
-🗓️ Last Updated: July 2, 2025
+🧩 Problems Solved: 22
+🗓️ Last Updated: July 3, 2025
 🧠 Language: Python 3
 
 
