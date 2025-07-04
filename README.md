@@ -49,6 +49,7 @@ dsa-python/
 │   ├── 020_Plus_One.py
 │   ├── 021_Search_Insert_Position.py
 │   ├── 022_Find_the_Duplicate_Number.py
+│   ├── 023_Number_of_Occurrence.py
 │
 ├── Strings/
 │   
@@ -67,8 +68,8 @@ dsa-python/
 
 📈 Progress Tracker
 
-🧩 Problems Solved: 22
-🗓️ Last Updated: July 3, 2025
+🧩 Problems Solved: 23
+🗓️ Last Updated: July 4, 2025
 🧠 Language: Python 3
 
 
