@@ -93,3 +93,6 @@ Suggestions, issue reports, and improvements are welcome too.
 
 📧 Email: yashnamdevnwg@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/yashwant-namdev
+
+📄 License
+This project is licensed under the MIT License.
