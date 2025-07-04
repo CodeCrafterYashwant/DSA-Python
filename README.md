@@ -1,26 +1,37 @@
 # 🧠 DSA in Python – Practice Repository
 
-Welcome to my **Data Structures & Algorithms** practice repo!  
-This is where I consistently solve problems using **Python**, mainly from platforms like [LeetCode](https://leetcode.com), [GeeksforGeeks](https://www.geeksforgeeks.org/), and [Coding Ninjas](https://www.codingninjas.com/studio/).
+Welcome to my **Data Structures & Algorithms (DSA)** practice repo!  
+This is where I consistently solve problems using **Python**, primarily from platforms like:
+
+- [LeetCode](https://leetcode.com)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Coding Ninjas](https://www.codingninjas.com/studio/)
 
 ---
 
-## 🧾 Contents
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![DSA](https://img.shields.io/badge/DSA-Problems-brightgreen)
 
-| S.No | Topic            | Problems Covered                           |
-|------|------------------|--------------------------------------------|
-| 1    | Arrays           | Two Sum, Kadane's Algorithm, etc.          |
-| 2    | Strings          | Valid Palindrome, Anagram Check, etc.      |
-| 3    | HashMaps         | Frequency Count, Intersection, etc.        |
-| 4    | Linked Lists     | Reverse List, Detect Cycle, Middle Node, etc.|
-| 5    | Recursion        | Factorial, Fibonacci, Backtracking Basics,etc.|
-| 6    | Stack / Queue    | Valid Parentheses, Min Stack, etc.         |
-| 7    | Trees / Graphs   | BFS, DFS, Level Order, Top View, etc.      |
+---
+
+## 🧾 Topics Covered
+
+| S.No | Topic            | Problems Covered                            |
+|------|------------------|---------------------------------------------|
+| 1    | Arrays           | Two Sum, Kadane's Algorithm, etc.           |
+| 2    | Strings          | Valid Palindrome, Anagram Check, etc.       |
+| 3    | HashMaps         | Frequency Count, Intersection, etc.         |
+| 4    | Linked Lists     | Reverse List, Detect Cycle, Middle Node     |
+| 5    | Recursion        | Factorial, Fibonacci, Backtracking Basics   |
+| 6    | Stack / Queue    | Valid Parentheses, Min Stack, etc.          |
+| 7    | Trees / Graphs   | BFS, DFS, Level Order, Top View, etc.       |
 | 8    | Binary Search    | Search Insert Position, Rotated Array, etc. |
 | 9    | Sliding Window   | Max Sum Subarray, Longest Substring, etc.   |
-| 10   | Dynamic Prog.    | Climbing Stairs, Subset Sum, Knapsack, etc. |
+| 10   | Dynamic Prog.    | Climbing Stairs, Subset Sum, Knapsack       |
 
 ---
+
 
 ## 📂 Folder Structure
 
@@ -64,6 +75,7 @@ dsa-python/
 │   
 │
 ├── README.md
+├── LICENSE
 │
 
 📈 Progress Tracker
@@ -72,8 +84,12 @@ dsa-python/
 🗓️ Last Updated: July 4, 2025
 🧠 Language: Python 3
 
+🤝 Contribution
 
-🔗 Connect
+Want to contribute? Feel free to fork this repo, create a new branch, and submit a pull request!
+Suggestions, issue reports, and improvements are welcome too.
+
+🔗 Connect with Me
+
 📧 Email: yashnamdevnwg@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/yashwant-namdev
-
