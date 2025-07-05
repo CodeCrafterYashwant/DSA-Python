@@ -61,6 +61,7 @@ dsa-python/
 │   ├── 021_Search_Insert_Position.py
 │   ├── 022_Find_the_Duplicate_Number.py
 │   ├── 023_Number_of_Occurrence.py
+│   ├── 024_Median_of_Two_Sorted_Arrays.py
 │
 ├── Strings/
 │   
@@ -80,8 +81,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 23
-🗓️ Last Updated: July 4, 2025
+🧩 Problems Solved: 24
+🗓️ Last Updated: July 5, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
