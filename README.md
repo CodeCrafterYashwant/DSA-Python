@@ -64,6 +64,7 @@ dsa-python/
 │   ├── 024_Median_of_Two_Sorted_Arrays.py
 │   ├── 025_Find_all_Duplicates_in_An_Array.py
 │   ├── 026_Merge_Sorted_Array.py
+│   ├── 027_Intersection_of_Two_Arrays.py
 │
 ├── Strings/
 │   
@@ -83,8 +84,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 26
-🗓️ Last Updated: July 7, 2025
+🧩 Problems Solved: 27
+🗓️ Last Updated: July 8, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
