@@ -65,6 +65,7 @@ dsa-python/
 │   ├── 025_Find_all_Duplicates_in_An_Array.py
 │   ├── 026_Merge_Sorted_Array.py
 │   ├── 027_Intersection_of_Two_Arrays.py
+│   ├── 028_Longest_Consecutive_Sequence.py
 │
 ├── Strings/
 │   
@@ -84,8 +85,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 27
-🗓️ Last Updated: July 8, 2025
+🧩 Problems Solved: 28
+🗓️ Last Updated: July 10, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
