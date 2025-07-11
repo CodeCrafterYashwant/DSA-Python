@@ -66,6 +66,7 @@ dsa-python/
 │   ├── 026_Merge_Sorted_Array.py
 │   ├── 027_Intersection_of_Two_Arrays.py
 │   ├── 028_Longest_Consecutive_Sequence.py
+│   ├── 029_First_Missing_Positive.py
 │
 ├── Strings/
 │   
@@ -85,8 +86,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 28
-🗓️ Last Updated: July 10, 2025
+🧩 Problems Solved: 29
+🗓️ Last Updated: July 11, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
