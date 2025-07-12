@@ -67,6 +67,7 @@ dsa-python/
 │   ├── 027_Intersection_of_Two_Arrays.py
 │   ├── 028_Longest_Consecutive_Sequence.py
 │   ├── 029_First_Missing_Positive.py
+│   ├── 030_Subarray_Sum_Equals_K.py
 │
 ├── Strings/
 │   
@@ -86,8 +87,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 29
-🗓️ Last Updated: July 11, 2025
+🧩 Problems Solved: 30
+🗓️ Last Updated: July 12, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
