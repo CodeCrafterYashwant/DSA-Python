@@ -70,7 +70,7 @@ dsa-python/
 │   ├── 030_Subarray_Sum_Equals_K.py
 │
 ├── Strings/
-│   
+│   ├── 001_Valid_Anagram.py
 │
 ├── HashMaps/
 │   
@@ -87,8 +87,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 30
-🗓️ Last Updated: July 12, 2025
+🧩 Problems Solved: 31
+🗓️ Last Updated: July 13, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
