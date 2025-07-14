@@ -71,6 +71,7 @@ dsa-python/
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
+│   ├── 002_Reverse_String.py
 │
 ├── HashMaps/
 │   
@@ -87,8 +88,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 31
-🗓️ Last Updated: July 13, 2025
+🧩 Problems Solved: 32
+🗓️ Last Updated: July 14, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
