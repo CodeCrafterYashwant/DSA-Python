@@ -73,6 +73,7 @@ dsa-python/
 │   ├── 001_Valid_Anagram.py
 │   ├── 002_Reverse_String.py
 │   ├── 003_Find_the_Index_of_the_First_Occurrence_in_a_string.py
+│   ├── 004_Valid_Palindrome.py
 │
 ├── HashMaps/
 │   
@@ -89,8 +90,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 33
-🗓️ Last Updated: July 15, 2025
+🧩 Problems Solved: 34
+🗓️ Last Updated: July 16, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
