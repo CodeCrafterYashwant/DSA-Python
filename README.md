@@ -75,6 +75,7 @@ dsa-python/
 │   ├── 003_Find_the_Index_of_the_First_Occurrence_in_a_string.py
 │   ├── 004_Valid_Palindrome.py
 │   ├── 005_Longest_Common_Prefix.py
+│   ├── 006_Group_Anagrams.py
 │
 ├── HashMaps/
 │   
@@ -91,8 +92,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 35
-🗓️ Last Updated: July 17, 2025
+🧩 Problems Solved: 36
+🗓️ Last Updated: July 18, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
