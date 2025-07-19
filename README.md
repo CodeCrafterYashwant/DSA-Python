@@ -76,6 +76,7 @@ dsa-python/
 │   ├── 004_Valid_Palindrome.py
 │   ├── 005_Longest_Common_Prefix.py
 │   ├── 006_Group_Anagrams.py
+│   ├── 007_Longest_Substring_without_Repeating_Characters.py
 │
 ├── HashMaps/
 │   
@@ -92,8 +93,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 36
-🗓️ Last Updated: July 18, 2025
+🧩 Problems Solved: 37
+🗓️ Last Updated: July 19, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
