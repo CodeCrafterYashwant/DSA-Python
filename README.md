@@ -80,6 +80,7 @@ dsa-python/
 │   ├── 008_Longest_Palindromic_Substring.py
 │   ├── 009_Isomorphic_Strings.py
 │   ├── 010_Reverse-Words-in-a-String-iii.py
+│   ├── 011_Check_if_Two_String_are_Equivalent.py
 │
 ├── HashMaps/
 │   
@@ -96,8 +97,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 40
-🗓️ Last Updated: July 22, 2025
+🧩 Problems Solved: 41
+🗓️ Last Updated: July 23, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
