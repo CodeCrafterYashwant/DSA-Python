@@ -86,6 +86,10 @@ dsa-python/
 ├── HashMaps/
 │   
 │
+├──Linked Lists/
+│   ├── 001_Reverse_Linked_List.py
+│
+│
 ├── Recursion/
 │   
 │
@@ -98,8 +102,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 42
-🗓️ Last Updated: July 24, 2025
+🧩 Problems Solved: 43
+🗓️ Last Updated: July 25, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
