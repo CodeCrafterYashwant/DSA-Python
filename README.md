@@ -89,6 +89,7 @@ dsa-python/
 ├──Linked Lists/
 │   ├── 001_Reverse_Linked_List.py
 │   ├── 002_Remove_Nth_Node_From_End_of_List.py
+│   ├── 003_Middle_of_the_Linked_List.py
 │
 │
 ├── Recursion/
@@ -103,8 +104,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 44
-🗓️ Last Updated: July 26, 2025
+🧩 Problems Solved: 45
+🗓️ Last Updated: July 27, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
