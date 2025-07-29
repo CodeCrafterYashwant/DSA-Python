@@ -92,6 +92,7 @@ dsa-python/
 │   ├── 003_Middle_of_the_Linked_List.py
 │   ├── 003_Middle_of_the_Linked_List.py
 │   ├── 004_Delete_Node_in_a_Linked_List.py
+│   ├── 005_Remove_Duplicates_from_Sorted_Linked_List.py
 │
 │
 ├── Recursion/
@@ -106,8 +107,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 46
-🗓️ Last Updated: July 28, 2025
+🧩 Problems Solved: 47
+🗓️ Last Updated: July 29, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
