@@ -68,6 +68,7 @@ dsa-python/
 │   ├── 028_Longest_Consecutive_Sequence.py
 │   ├── 029_First_Missing_Positive.py
 │   ├── 030_Subarray_Sum_Equals_K.py
+│   ├── 031_Majority Element.py
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
@@ -108,8 +109,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 48
-🗓️ Last Updated: July 30, 2025
+🧩 Problems Solved: 49
+🗓️ Last Updated: July 31, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
