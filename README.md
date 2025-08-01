@@ -84,6 +84,7 @@ dsa-python/
 │   ├── 011_Check_if_Two_String_are_Equivalent.py
 │   ├── 012_First_Unique_Character_in_a_String.py
 │   ├── 013_Rotate_String.py
+│   ├── 014_Valid_Parentheses.py
 │
 ├── HashMaps/
 │   
@@ -109,8 +110,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 49
-🗓️ Last Updated: July 31, 2025
+🧩 Problems Solved: 50
+🗓️ Last Updated: August 1, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
