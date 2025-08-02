@@ -69,6 +69,7 @@ dsa-python/
 │   ├── 029_First_Missing_Positive.py
 │   ├── 030_Subarray_Sum_Equals_K.py
 │   ├── 031_Majority Element.py
+│   ├── 032_Convert_the_Temperature.py
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
@@ -110,8 +111,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 50
-🗓️ Last Updated: August 1, 2025
+🧩 Problems Solved: 51
+🗓️ Last Updated: August 2, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
