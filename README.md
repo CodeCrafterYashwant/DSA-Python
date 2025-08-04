@@ -71,6 +71,7 @@ dsa-python/
 │   ├── 031_Majority Element.py
 │   ├── 032_Convert_the_Temperature.py
 │   ├── 033_Kids_with_the_Greatest_Number_of_Candies.py
+│   ├── 034_Smallest_Even_Multiple.py
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
@@ -112,8 +113,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 52
-🗓️ Last Updated: August 3, 2025
+🧩 Problems Solved: 53
+🗓️ Last Updated: August 4, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
