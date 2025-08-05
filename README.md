@@ -72,6 +72,7 @@ dsa-python/
 │   ├── 032_Convert_the_Temperature.py
 │   ├── 033_Kids_with_the_Greatest_Number_of_Candies.py
 │   ├── 034_Smallest_Even_Multiple.py
+│   ├── 035_Find_Numbers_with_Even_Number_of_Digits.py
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
@@ -113,8 +114,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 53
-🗓️ Last Updated: August 4, 2025
+🧩 Problems Solved: 54
+🗓️ Last Updated: August 5, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
