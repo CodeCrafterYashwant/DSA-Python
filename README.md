@@ -102,6 +102,7 @@ dsa-python/
 │   ├── 005_Remove_Duplicates_from_Sorted_Linked_List.py
 │   ├── 006_Merge_Two_Sorted_Lists.py
 │   ├── 007_Palindrome_Linked_List.py
+│   ├── 008_Intersection_of_Two_Linked_Lists.py
 │
 │
 ├── Recursion/
@@ -116,8 +117,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 56
-🗓️ Last Updated: August 7, 2025
+🧩 Problems Solved: 57
+🗓️ Last Updated: August 8, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
