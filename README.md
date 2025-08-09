@@ -89,6 +89,7 @@ dsa-python/
 │   ├── 012_First_Unique_Character_in_a_String.py
 │   ├── 013_Rotate_String.py
 │   ├── 014_Valid_Parentheses.py
+│   ├── 015_Detect_Capital.py
 │
 ├── HashMaps/
 │   
@@ -117,8 +118,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 57
-🗓️ Last Updated: August 8, 2025
+🧩 Problems Solved: 58
+🗓️ Last Updated: August 9, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
