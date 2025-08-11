@@ -105,6 +105,7 @@ dsa-python/
 │   ├── 007_Palindrome_Linked_List.py
 │   ├── 008_Intersection_of_Two_Linked_Lists.py
 │   ├── 009_Linked_List_Cycle.py
+│   ├── 010_Sort_List.py
 │
 │
 ├── Recursion/
@@ -119,8 +120,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 59
-🗓️ Last Updated: August 10, 2025
+🧩 Problems Solved: 60
+🗓️ Last Updated: August 11, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
