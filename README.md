@@ -106,6 +106,7 @@ dsa-python/
 │   ├── 008_Intersection_of_Two_Linked_Lists.py
 │   ├── 009_Linked_List_Cycle.py
 │   ├── 010_Sort_List.py
+│   ├── 011_Reverse_Linked_List_II.py
 │
 │
 ├── Recursion/
@@ -120,8 +121,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 60
-🗓️ Last Updated: August 11, 2025
+🧩 Problems Solved: 61
+🗓️ Last Updated: August 12, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
