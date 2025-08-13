@@ -121,8 +121,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 61
-🗓️ Last Updated: August 12, 2025
+🧩 Problems Solved: 62
+🗓️ Last Updated: August 13, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
