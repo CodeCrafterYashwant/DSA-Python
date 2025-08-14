@@ -107,6 +107,7 @@ dsa-python/
 │   ├── 009_Linked_List_Cycle.py
 │   ├── 010_Sort_List.py
 │   ├── 011_Reverse_Linked_List_II.py
+│   ├── 012_Remove_Duplicates_from_Sorted_List_II.py
 │
 │
 ├── Recursion/
@@ -121,8 +122,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 62
-🗓️ Last Updated: August 13, 2025
+🧩 Problems Solved: 63
+🗓️ Last Updated: August 14, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
