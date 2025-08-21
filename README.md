@@ -110,6 +110,7 @@ dsa-python/
 │   ├── 012_Remove_Duplicates_from_Sorted_List_II.py
 │   ├── 013_Rotate_List.py
 │   ├── 014_Add_Two_Numbers.py
+│   ├── 015_Swap_Nodes_in_Pairs.py
 │
 │
 ├── Recursion/
@@ -124,8 +125,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 68
-🗓️ Last Updated: August 20, 2025
+🧩 Problems Solved: 69
+🗓️ Last Updated: August 21, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
