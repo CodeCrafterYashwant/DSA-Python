@@ -112,6 +112,7 @@ dsa-python/
 │   ├── 014_Add_Two_Numbers.py
 │   ├── 015_Swap_Nodes_in_Pairs.py
 │   ├── 016_Reverse_Nodes_in_k_Group.py
+│   ├── 017_Reorder_List.py
 │
 │
 ├── Recursion/
@@ -126,8 +127,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 66
-🗓️ Last Updated: August 24, 2025
+🧩 Problems Solved: 67
+🗓️ Last Updated: August 25, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
