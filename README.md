@@ -116,6 +116,7 @@ dsa-python/
 │
 │
 ├── Recursion/
+│   ├── 001_Factorial_of_a_Number.py
 │   
 │
 ├── Stack/
@@ -127,8 +128,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 67
-🗓️ Last Updated: August 25, 2025
+🧩 Problems Solved: 68
+🗓️ Last Updated: August 26, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
