@@ -119,6 +119,7 @@ dsa-python/
 │   ├── 001_Factorial_of_a_Number.py
 │   ├── 002_Fibonacci_Number.py
 │   ├── 003_Reverse_String.py
+│   ├── 004_Pow(x,n).py
 │   
 │
 ├── Stack/
@@ -130,8 +131,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 70
-🗓️ Last Updated: August 28, 2025
+🧩 Problems Solved: 71
+🗓️ Last Updated: August 29, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
