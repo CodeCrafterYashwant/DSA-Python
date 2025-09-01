@@ -120,6 +120,7 @@ dsa-python/
 │   ├── 002_Fibonacci_Number.py
 │   ├── 003_Reverse_String.py
 │   ├── 004_Pow(x,n).py
+│   ├── 005_Sum_of_Digits.py
 │   
 │
 ├── Stack/
@@ -131,8 +132,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 71
-🗓️ Last Updated: August 30, 2025
+🧩 Problems Solved: 72
+🗓️ Last Updated: September 1, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
