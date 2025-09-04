@@ -121,6 +121,7 @@ dsa-python/
 │   ├── 003_Reverse_String.py
 │   ├── 004_Pow(x,n).py
 │   ├── 005_Sum_of_Digits.py
+│   ├── 006_Print_1_to_n_Without_Loop.py
 │   
 │
 ├── Stack/
@@ -132,8 +133,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 72
-🗓️ Last Updated: September 2, 2025
+🧩 Problems Solved: 73
+🗓️ Last Updated: September 4, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
