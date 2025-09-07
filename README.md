@@ -123,6 +123,7 @@ dsa-python/
 │   ├── 005_Sum_of_Digits.py
 │   ├── 006_Print_1_to_n_Without_Loop.py
 │   ├── 007_Merge_Two_Sorted_Lists.py
+│   ├── 008_Permulations.py
 │   
 │
 ├── Stack/
@@ -134,8 +135,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 74
-🗓️ Last Updated: September 6, 2025
+🧩 Problems Solved: 75
+🗓️ Last Updated: September 7, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
