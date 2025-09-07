@@ -123,7 +123,7 @@ dsa-python/
 │   ├── 005_Sum_of_Digits.py
 │   ├── 006_Print_1_to_n_Without_Loop.py
 │   ├── 007_Merge_Two_Sorted_Lists.py
-│   ├── 008_Permulations.py
+│   ├── 008_Permutations.py
 │   
 │
 ├── Stack/
