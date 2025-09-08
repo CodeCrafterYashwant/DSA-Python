@@ -90,6 +90,7 @@ dsa-python/
 │   ├── 013_Rotate_String.py
 │   ├── 014_Valid_Parentheses.py
 │   ├── 015_Detect_Capital.py
+│   ├── 016_Multiply_Strings.py
 │
 ├── HashMaps/
 │   
@@ -135,8 +136,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 75
-🗓️ Last Updated: September 7, 2025
+🧩 Problems Solved: 76
+🗓️ Last Updated: September 8, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
