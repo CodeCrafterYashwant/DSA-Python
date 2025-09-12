@@ -73,6 +73,7 @@ dsa-python/
 │   ├── 033_Kids_with_the_Greatest_Number_of_Candies.py
 │   ├── 034_Smallest_Even_Multiple.py
 │   ├── 035_Find_Numbers_with_Even_Number_of_Digits.py
+│   ├── 036_Product_of_Array_Except_Self.py
 │
 ├── Strings/
 │   ├── 001_Valid_Anagram.py
@@ -137,8 +138,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 77
-🗓️ Last Updated: September 10, 2025
+🧩 Problems Solved: 78
+🗓️ Last Updated: September 12, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
