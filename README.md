@@ -95,6 +95,7 @@ dsa-python/
 │   ├── 017_Roman_to_Integer.py
 │
 ├── HashMaps/
+│   ├── 001_Design_HashMap.py
 │   
 │
 ├──Linked Lists/
@@ -138,8 +139,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 78
-🗓️ Last Updated: September 15, 2025
+🧩 Problems Solved: 79
+🗓️ Last Updated: September 18, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
