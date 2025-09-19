@@ -96,6 +96,7 @@ dsa-python/
 │
 ├── HashMaps/
 │   ├── 001_Design_HashMap.py
+│   ├── 002_Two_Sum.py
 │   
 │
 ├──Linked Lists/
@@ -139,8 +140,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 79
-🗓️ Last Updated: September 18, 2025
+🧩 Problems Solved: 80
+🗓️ Last Updated: September 19, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
