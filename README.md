@@ -98,6 +98,7 @@ dsa-python/
 │   ├── 001_Design_HashMap.py
 │   ├── 002_Two_Sum.py
 │   ├── 003_Contains_Duplicate.py
+│   ├── 004_Valid_Anagram.py
 │   
 │
 ├──Linked Lists/
@@ -141,8 +142,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 81
-🗓️ Last Updated: September 20, 2025
+🧩 Problems Solved: 82
+🗓️ Last Updated: September 21, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
