@@ -99,6 +99,7 @@ dsa-python/
 │   ├── 002_Two_Sum.py
 │   ├── 003_Contains_Duplicate.py
 │   ├── 004_Valid_Anagram.py
+│   ├── 005_First_Unique_Character_in_a_String.py
 │   
 │
 ├──Linked Lists/
@@ -142,8 +143,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 82
-🗓️ Last Updated: September 21, 2025
+🧩 Problems Solved: 83
+🗓️ Last Updated: September 22, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
