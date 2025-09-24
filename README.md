@@ -100,6 +100,7 @@ dsa-python/
 │   ├── 003_Contains_Duplicate.py
 │   ├── 004_Valid_Anagram.py
 │   ├── 005_First_Unique_Character_in_a_String.py
+│   ├── 006_Find_the_Difference.py
 │   
 │
 ├──Linked Lists/
@@ -143,8 +144,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 83
-🗓️ Last Updated: September 22, 2025
+🧩 Problems Solved: 84
+🗓️ Last Updated: September 24, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
