@@ -102,6 +102,7 @@ dsa-python/
 │   ├── 005_First_Unique_Character_in_a_String.py
 │   ├── 006_Find_the_Difference.py
 │   ├── 007_Single_Number.py
+│   ├── 008_Happy_Number.py
 │   
 │
 ├──Linked Lists/
@@ -145,8 +146,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 85
-🗓️ Last Updated: September 25, 2025
+🧩 Problems Solved: 86
+🗓️ Last Updated: September 26, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
