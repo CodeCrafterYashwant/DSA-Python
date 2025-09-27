@@ -103,6 +103,7 @@ dsa-python/
 │   ├── 006_Find_the_Difference.py
 │   ├── 007_Single_Number.py
 │   ├── 008_Happy_Number.py
+│   ├── 009_Intersection_of_Two_Arrays.py
 │   
 │
 ├──Linked Lists/
@@ -146,8 +147,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 86
-🗓️ Last Updated: September 26, 2025
+🧩 Problems Solved: 87
+🗓️ Last Updated: September 27, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
