@@ -105,6 +105,7 @@ dsa-python/
 │   ├── 008_Happy_Number.py
 │   ├── 009_Intersection_of_Two_Arrays.py
 │   ├── 010_Intersection_of_Two_Arrays_II.py
+│   ├── 011_Subarray_Sum_Equals_k.py
 │   
 │
 ├──Linked Lists/
@@ -148,8 +149,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 88
-🗓️ Last Updated: September 28, 2025
+🧩 Problems Solved: 89
+🗓️ Last Updated: September 29, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
