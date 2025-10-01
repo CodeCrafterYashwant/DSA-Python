@@ -107,6 +107,7 @@ dsa-python/
 │   ├── 010_Intersection_of_Two_Arrays_II.py
 │   ├── 011_Subarray_Sum_Equals_k.py
 │   ├── 012_Top_K_Frequent_Element.py
+│   ├── 013_Contiguous_Array.py
 │   
 │
 ├──Linked Lists/
@@ -150,8 +151,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 90
-🗓️ Last Updated: September 30, 2025
+🧩 Problems Solved: 91
+🗓️ Last Updated: October 1, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
