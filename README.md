@@ -143,6 +143,7 @@ dsa-python/
 │   
 │
 ├── Stack/
+│   ├── 001_Min_Stack.py
 │   
 │
 ├── README.md
@@ -151,8 +152,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 91
-🗓️ Last Updated: October 1, 2025
+🧩 Problems Solved: 92
+🗓️ Last Updated: October 2, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
