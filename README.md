@@ -144,6 +144,7 @@ dsa-python/
 │
 ├── Stack/
 │   ├── 001_Min_Stack.py
+│   ├── 002_Valid_Parentheses.py
 │   
 │
 ├── README.md
@@ -152,8 +153,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 92
-🗓️ Last Updated: October 2, 2025
+🧩 Problems Solved: 93
+🗓️ Last Updated: October 3, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
