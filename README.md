@@ -147,6 +147,7 @@ dsa-python/
 │   ├── 002_Valid_Parentheses.py
 │   ├── 003_Maximal_Rectangle.py
 │   ├── 004_Valid_Parentheses.py
+│   ├── 005_Reverse_String.py
 │   
 │
 ├── README.md
@@ -155,8 +156,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 95
-🗓️ Last Updated: October 7, 2025
+🧩 Problems Solved: 96
+🗓️ Last Updated: October 8, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
