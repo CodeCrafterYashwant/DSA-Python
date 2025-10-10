@@ -149,6 +149,7 @@ dsa-python/
 │   ├── 004_Valid_Parentheses.py
 │   ├── 005_Reverse_String.py
 │   ├── 006_Daily_Temperatures.py
+│   ├── 007_Permutations_II.py
 │   
 │
 ├── README.md
@@ -157,8 +158,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 97
-🗓️ Last Updated: October 9, 2025
+🧩 Problems Solved: 98
+🗓️ Last Updated: October 10, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
