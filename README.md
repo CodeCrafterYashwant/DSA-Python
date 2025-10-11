@@ -150,6 +150,7 @@ dsa-python/
 │   ├── 005_Reverse_String.py
 │   ├── 006_Daily_Temperatures.py
 │   ├── 007_Permutations_II.py
+│   ├── 008_Decode_String.py
 │   
 │
 ├── README.md
@@ -158,8 +159,8 @@ dsa-python/
 ```
 📈 Progress Tracker
 
-🧩 Problems Solved: 98
-🗓️ Last Updated: October 10, 2025
+🧩 Problems Solved: 99
+🗓️ Last Updated: October 11, 2025
 🧠 Language: Python 3
 
 🤝 Contribution
